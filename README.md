@@ -10,10 +10,11 @@ then turns the score into a level.
 Open index.html in a browser.
 
 ## What I learned
-link the javascript file to the hmtl.index with getElementById().
-Use .test() to test the functions on the brpwser before execute it.
-Learn addEventListener("click") for executing the code when somebody click on it.
-.value for reading the text in the a <input> value and .textContent for changing or reading a value.
+- Select page elements with getElementById() and read what the user typed with .value.
+- Use addEventListener("click") to run code when the button is clicked.
+- Use regular expressions with .test() to check uppercase letters, lowercase letters, digits and symbols.
+- Display the result with .textContent.
+- Turn a score into a level with a switch statement.
 
 ## Privacy
 The password never leaves your browser: nothing is sent or stored.
