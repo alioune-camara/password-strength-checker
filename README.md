@@ -3,7 +3,7 @@
 A simple web page that rates a password as Weak, Medium or Strong.
 
 ## How it works
-Checks length (12+), uppercase, lowercase, digits and symbols,
+Checks length (12+), uppercase, lowercase, digits and symbols,  
 then turns the score into a level.
 
 ## How to run
