@@ -1,5 +1,7 @@
 # Password Strength Checker
 
+**Live demo:** https://alioune-camara.github.io/password-strength-checker/
+
 A simple web page that rates a password as Weak, Medium or Strong.
 
 ## How it works
